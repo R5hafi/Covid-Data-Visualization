@@ -1,5 +1,5 @@
 # Covid-Data-Visualization
-Project to demonstrate my knowledge in SQL
+Beginner Project to demonstrate my knowledge in SQL, sort & visualize COVID data from Jan 2020 to Apr 2021
 
 Data from https://ourworldindata.org/covid-deaths
 
